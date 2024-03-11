@@ -50,12 +50,12 @@ export const mainStore = defineStore("mainData", {
           order: 6,
           show: true,
         },
-        {
-          label: "IT之家",
-          name: "ithome",
-          order: 7,
-          show: true,
-        },
+        // {
+        //   label: "IT之家",
+        //   name: "ithome",
+        //   order: 7,
+        //   show: true,
+        // },
         {
           label: "澎湃新闻",
           name: "thepaper",
