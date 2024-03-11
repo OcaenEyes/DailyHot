@@ -51,7 +51,7 @@ export const mainStore = defineStore("mainData", {
           show: true,
         },
         {
-          label: "热门小说",
+          label: "起点热门小说",
           name: "hotbook",
           order: 7,
           show: true,
